@@ -38,18 +38,3 @@ Signup successful
 Login successful
 
 
----
-
-## 🎯 Why This Helps
-- Recruiters see not just the code, but also the **expected output**.  
-- It proves the module works without them needing to run it.  
-- Makes your repo look polished and professional.
-
----
-
-⚡ Next step: Commit and push the updated README:
-
-```bash
-git add README.md
-git commit -m "Update README with usage output"
-git push origin master
