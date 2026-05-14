@@ -26,3 +26,11 @@ It includes Python modules for user login, registration, and session handling, w
    ```bash
    git clone https://github.com/SPpavani/ecommerce-auth.git
    cd ecommerce-auth
+## 🚀 Usage Example
+
+```python
+from auth import AuthSystem
+
+auth = AuthSystem()
+print(auth.signup("user@example.com", "securepassword"))
+print(auth.login("user@example.com", "securepassword"))
